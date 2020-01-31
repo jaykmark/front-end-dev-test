@@ -1,6 +1,6 @@
 # front-end-dev-test
 
-**View it live at: https://jaykmark.github.io/front-end-dev-test/**
+**View it live at: <a href="https://jaykmark.github.io/front-end-dev-test/" target="_blank">https://jaykmark.github.io/front-end-dev-test/</a>**
 
 ## Technologies Used
 Bootstrap for its grid system. SlickJS for the carousel. AnimateCSS for fade in effects.
